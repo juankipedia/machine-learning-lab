@@ -1,2 +1,3 @@
-# machine-learning-lab
-machine learning project designed to give a general approach of machine learning   
+# Machine Learning Project:
+
+Machine Learning Project designed to give a general approach of Machine Learning.
